@@ -25,7 +25,16 @@ I am aiming for:
 
 ## Projects
 
-Explore my repository to discover the exciting projects I've been working on. From data analysis to web development, I'm enthusiastic about applying my skills to diverse projects.
+### Project 1: [Project Title]
+- **Description**: Brief description of the project.
+- **Tools Used**: Python, pandas, Matplotlib
+- **Link to Project**: [GitHub Repository Link]
+
+### Project 2: [Project Title]
+- **Description**: Brief description of the project.
+- **Tools Used**: R, ggplot2
+- **Link to Project**: [GitHub Repository Link]
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hussain-ahmad-636b051b6)! Let's collaborate and create something amazing together. 🌟
+- [Email](mailto:hussainahd.199@gmail.com)
 
