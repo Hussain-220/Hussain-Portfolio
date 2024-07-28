@@ -35,6 +35,10 @@ I am aiming for:
 - **Tools Used**: R, ggplot2
 - **Link to Project**: [GitHub Repository Link]
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hussain-ahmad-636b051b6)! Let's collaborate and create something amazing together. 🌟
-- [Email](mailto:hussainahd.199@gmail.com)
+## Contact
+  I'm always open to discussing data science projects, collaboration opportunities, or just connecting with like-minded individuals. Feel free to reach out to me through the following channels:
 
+- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/hussain-ahmad-636b051b6) to view my professional background and endorsements.
+- **Email**: Send me an email at [Email](mailto:hussainahd.199@gmail.com) for any inquiries or collaboration ideas.
+
+Looking forward to connecting with you!
